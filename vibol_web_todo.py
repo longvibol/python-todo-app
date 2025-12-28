@@ -4,7 +4,14 @@ from datetime import date
 
 st.set_page_config(page_title="Todo App", page_icon="✅", layout="centered")
 
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8fd75a5 (Initial project)
+>>>>>>> d36224cdae42a6838ae2104956974925d9a85b1a
 # -------------------- LIGHT THEME CSS (ONLY) --------------------
 def inject_css():
     bg = "linear-gradient(-45deg, #f8fafc, #eef2ff, #ecfeff, #fff7ed)"
